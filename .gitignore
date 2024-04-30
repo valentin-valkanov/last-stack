@@ -10,3 +10,8 @@
 ###< symfony/framework-bundle ###
 .idea
 ..idea/last-stack.iml
+
+###> symfony/asset-mapper ###
+/public/assets/
+/assets/vendor/
+###< symfony/asset-mapper ###
