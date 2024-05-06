@@ -86,6 +86,14 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/asset-mapper" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/http-client" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/http-client-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/gehrisandro/tailwind-merge-php" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/knplabs/knp-time-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfonycasts/tailwind-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/tales-from-a-dev/flowbite-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/tales-from-a-dev/twig-tailwind-extra" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/stimulus-bundle" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

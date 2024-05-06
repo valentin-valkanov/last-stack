@@ -9,7 +9,13 @@
 /vendor/
 ###< symfony/framework-bundle ###
 .idea
+.idea/codeception.xml
+.idea/last-stack.iml
 ..idea/last-stack.iml
+.idea/php.xml
+.idea/phpspec.xml
+
+
 
 ###> symfony/asset-mapper ###
 /public/assets/
